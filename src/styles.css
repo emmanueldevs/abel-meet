@@ -1,0 +1,30 @@
+:root {
+    --gm-label-color: #5f6368;
+    --gm-navigation-icon-color: #3c4043;
+    --gm-neutral-highlight-color: #f8f9fa;
+    --gm-neutral-outline-color: #dadce0;
+}
+body {
+    background:
+    #202124;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.MuiInputBase-input {
+    color: white !important;
+}
+label {
+    color: #a4a2a2 !important;
+}
+
+@media (max-width: 992px) {
+    video {
+        width: 100% !important;
+    }
+}
