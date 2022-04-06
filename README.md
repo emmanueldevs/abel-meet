@@ -1,4 +1,4 @@
-# Abel-Meet Realtime Chat Application
+# Abel-Meet Realtime Video Chat Application
 
 ## Introduction
 Video chat app using WebRTC, SocketIO, React and Nodejs, Material UI for styling.
